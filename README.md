@@ -217,18 +217,3 @@ The project also applies several database-related techniques, including:
 | **python-docx** | Word document processing |
 | **Matplotlib** | GPA data visualization |
 | **Tkinter / CustomTkinter** | GUI components and interactions |
-
-## Intelligent Data Processing
-
-The application includes several automated data-processing features.
-
-### Automatic Note Creation
-
-The application can read `.txt` and `.docx` files, extract their text content, and automatically create a new note.
-
-### Real-time Lab Member Parsing
-
-When students enter a list of Lab members using the required format:
-
-```text
-[MSSV] - [Full Name]
